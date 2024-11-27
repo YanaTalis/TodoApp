@@ -1,1 +1,1 @@
-Todo App
+Todo App from Yana Talis
