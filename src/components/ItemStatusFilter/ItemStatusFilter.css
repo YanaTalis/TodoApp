@@ -1,0 +1,17 @@
+/* Фиолетовые стили для кнопок фильтра */
+.btn.btn-info {
+  background-color: #8e44ad;
+  border-color: #8e44ad;
+  color: #fff;
+}
+
+.btn.btn-outline-secondary {
+  border-color: #8e44ad;
+  color: #8e44ad;
+}
+
+.btn.btn-outline-secondary:hover,
+.btn.btn-outline-secondary:focus {
+  background-color: #8e44ad;
+  color: #fff;
+}

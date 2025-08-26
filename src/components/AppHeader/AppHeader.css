@@ -1,0 +1,16 @@
+.app-header {
+    align-items: flex-end;
+}
+
+.app-header h1 {
+    flex-grow: 1;
+}
+
+.app-header h2 {
+    font-size: 1.4rem;
+    color: rgb(49, 0, 128);
+}
+
+.dark-theme .app-header h2 {
+    color: #d6b4ff;
+}

@@ -1,0 +1,42 @@
+/* Dark theme styles */
+.dark-theme body,
+body.dark-theme {
+  background-color: #1a1333 !important;
+  color: #d6b4ff !important;
+}
+.dark-theme .todo-app {
+  background-color: #1a1333;
+  color: #d6b4ff;
+}
+.dark-theme input,
+.dark-theme .form-control {
+  background: #2d225a;
+  color: #d6b4ff;
+  border-color: #8e44ad;
+}
+.dark-theme .list-group-item {
+  background: #2d225a;
+  color: #d6b4ff;
+}
+.dark-theme .btn {
+  border-color: #8e44ad;
+}
+.dark-theme .btn-info,
+.dark-theme .btn-outline-secondary:hover,
+.dark-theme .btn-outline-secondary:focus {
+  background: #8e44ad;
+  color: #fff;
+}
+body {
+  background-color: #f1e0fd;
+  color: #2d225a;
+}
+
+.todo-app {
+  margin: 2rem auto 0 auto;
+  max-width: 700px;
+}
+
+.top-panel {
+  margin: 1rem 0;
+}
